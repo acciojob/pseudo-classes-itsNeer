@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.pseudo-class{
+	background-color: rgb(135, 206, 235)
+}
+.first-child{
+	color: white;
+	background-color: black;
+}
+.last-child{
+	color: red;
+}
+ul{
+	background-color: grey;
+	width: 50%;
+	padding: 10px;
+}
